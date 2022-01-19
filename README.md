@@ -1,9 +1,6 @@
 <div align="center">
 
-## Hi, I’m Naeyoon Kim 👋
-
-<img src="https://user-images.githubusercontent.com/90806892/148150905-b9af0ddc-9e37-41ae-bf8f-94787b5492e5.jpeg" width="75%" height="75%">
-<br>
+## Hi, I’m Naeyoon 👋
 <br>
 
 ### 🗂 Tech Stack 
